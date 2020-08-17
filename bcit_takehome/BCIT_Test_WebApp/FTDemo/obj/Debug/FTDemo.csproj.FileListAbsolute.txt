@@ -1,0 +1,106 @@
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\csc.exe
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\csc.exe.config
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\csc.rsp
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\csi.exe
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\csi.rsp
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\System.AppContext.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\vbc.exe
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\vbc.exe.config
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\vbc.rsp
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\FTDemo.dll.config
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\FTDemo.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\FTDemo.pdb
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\obj\Debug\FTDemo.csprojResolveAssemblyReference.cache
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\obj\Debug\FTDemo.dll
+C:\Users\am009823\Documents\Visual Studio 2017\Projects\FTDemo\FTDemo\obj\Debug\FTDemo.pdb
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\csc.exe
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\csc.exe.config
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\csc.rsp
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\csi.exe
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\csi.rsp
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\System.AppContext.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\vbc.exe
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\vbc.exe.config
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\vbc.rsp
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\FTDemo.dll.config
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\FTDemo.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\FTDemo.pdb
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\obj\Debug\FTDemo.csprojAssemblyReference.cache
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\obj\Debug\FTDemo.csproj.CoreCompileInputs.cache
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\obj\Debug\FTDemo.csproj.CopyComplete
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\obj\Debug\FTDemo.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\FTDemo\FTDemo\obj\Debug\FTDemo.pdb
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\csc.exe
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\csc.exe.config
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\csc.rsp
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\csi.exe
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\csi.rsp
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\System.AppContext.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\vbc.exe
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\vbc.exe.config
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\vbc.rsp
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\FTDemo.dll.config
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\FTDemo.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\FTDemo.pdb
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\obj\Debug\FTDemo.csprojAssemblyReference.cache
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\obj\Debug\FTDemo.csproj.CoreCompileInputs.cache
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\obj\Debug\FTDemo.csproj.CopyComplete
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\obj\Debug\FTDemo.dll
+C:\Users\rupan\Desktop\backup\office_laptop_backup\my_Documents\VS2017_Projects\BCIT_Test_WebApp\FTDemo\obj\Debug\FTDemo.pdb

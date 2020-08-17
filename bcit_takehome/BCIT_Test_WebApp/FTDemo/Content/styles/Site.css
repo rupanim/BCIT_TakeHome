@@ -1,0 +1,105 @@
+﻿html {
+    background: url(../Images/bcit_bg.jpg) no-repeat center center fixed;    
+    background-size: cover;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: transparent;
+}
+
+.borderRed {
+    border-color: red;
+}
+
+.borderGreen {
+    border-color: green;
+}
+
+.button-panel
+{    
+    display: table;
+    margin: 0 auto;
+}
+
+.textRed {
+    color: red;
+}
+
+.sectionHeading {
+    font-family: 'Script MT';
+    font-size: 45px;
+    text-align: center;
+    padding: 0px;
+    color: white
+}
+
+.about {    
+    font-size: 20px;    
+    padding: 0px;
+    color:white
+}
+
+
+.aboutText {
+    color:darkorange
+}
+
+#nav button:hover {
+    color: white;
+    background-color: gray;
+    transform: scale(1.3,1.3);
+    -webkit-transform: scale(1.3,1.3);
+    -moz-transform: scale(1.3,1.3);
+   
+}
+
+#nav button {
+    font-family: 'Century Gothic';
+    font-size: 22px;
+}
+
+
+
+
+#demoContent, #anchor1Body, #anchor2Body, #footer {
+    background-color: transparent;
+    color: white;
+}
+
+.labelContent {
+    font-size: 20px
+}
+
+.glyphicon.spinning {
+    animation: spin 1s infinite linear;
+    -webkit-animation: spin2 1s infinite linear;
+}
+
+@keyframes spin {
+    from {
+        transform: scale(1) rotate(0deg);
+    }
+
+    to {
+        transform: scale(1) rotate(360deg);
+    }
+}
+
+@-webkit-keyframes spin2 {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+
+    to {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@media only screen and (max-width: 320px) {
+
+    body {
+        font-size: 2em;
+    }
+}

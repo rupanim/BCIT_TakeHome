@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html data-ng-app="app" data-ng-strict-di>
+<head>
+
+    <title data-ng-bind="title">BCIT Tech Assessment</title>
+    <link rel="shortcut icon" href="#">
+    <link href="Content/angular-material.min.css" rel="stylesheet" />
+    <link href="Content/styles/bootstrap.min.css" rel="stylesheet" />    
+    <link href="Content/styles/Site.css" rel="stylesheet" />
+    <script src="Scripts/jquery-2.0.3.js"></script>
+    <script src="Scripts/jquery-ui-1.10.4.js"></script>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/angular-animate.min.js"></script>
+    <script src="Scripts/angular-aria.min.js"></script>
+    <script src="Scripts/angular-material.min.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/angular-sanitize.min.js"></script>
+
+    <script src="app/app.js"></script>
+    <script src="app/Controller/bcitDemoController.js"></script>
+
+</head>
+<body ng-app="app" layout="column" ng-controller="bcitDemoController" class="container body-content">   
+  
+        <md-toolbar style="background-color: transparent; color: black;font-family: Rockwell; align-content:center;">
+            <div style="overflow:hidden;">
+                <img alt="Logo Missing!" src="Content/Images/bcit_logo.jpg" style="float: right; position: relative; right: 10%;background-color: white" />
+            </div>            
+        </md-toolbar>
+    <br />
+        <div class="md-container" layout="row" id="nav" flex>
+            <md-sidenav md-is-locked-open="true" class="col-md-3" style="background-color: transparent">
+               <md-list>
+                   <md-list-item>                         
+                       <md-button class="btn btn-primary btn-block" ng-click="gotoAnchor(1)" style="font-family:'Century Gothic'; font-size: 18px;">
+                           About
+                       </md-button>
+                    </md-list-item>
+                    <md-list-item>
+                        <md-button class="btn btn-primary btn-block" ng-click="gotoAnchor(2)" style="font-family:'Century Gothic'; font-size: 18px;">
+                           Parser
+                        </md-button>
+                    </md-list-item>                  
+               </md-list>
+            </md-sidenav>
+            <md-content id="demoContent" flex>
+                <div id="anchor1" style="height: 100%" >                    
+                        <div class="sectionHeading">                           
+                                Welcome to the App <br />                                                     
+                        </div>
+                    <br />
+                    <div id="anchor1Body" class="panel panel-default panel-body about" style="font-family:'Lucida Sans'; border: 0px">
+                        <div class"panel-heading">
+                            This is an application to convert .docx files to HTML format. Please note below the following assumptions or constraints:
+
+                        </div>
+                        <div class="panel-body">
+                            <ul>
+                                <li>
+                                    It is a Web Application developed using AngularJS 1.8 and consumes WebAPI to parse the document.
+                                </li>
+                                <li>
+                                    Sample input file is located at '~/Contents/docs'
+                                </li>
+                                <li>
+                                    The physical location of the .docx file is the input to the application and in the output, it produces a parsed HTML in the preview as well as a physically located .html file.
+                                </li>
+                                <li>
+                                    Once the parsing is complete, preview of the HTML is available with only limited formatting.
+                                </li>
+                                <li>
+                                    The parsed HTML document is located in at the same location with the name of the HTML file same as the DocX file and images (if any) are stored in the same location under a images folder.
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="panel-footer" style="background-color:transparent; border:none">
+                            Thats it! To begin, click on the nav button 'Parser' on the left or scroll down.
+                        </div>
+                               
+                    </div>
+                </div>
+                <div id="anchor2" style="height: 100%">
+                    <div class="sectionHeading">
+                        Parse Docx to Html <br />                        
+                    </div>
+                    <div id="anchor2Body" class="panel panel-default panel-body" style="font-family:'Lucida Sans'; border: 0px">                        
+                        <label class="labelContent">Enter the file path of docx document : </label>
+                        <input style="color: black" name="filePath" ng-model="fileLoc" />
+                        <br />
+                        <span style="float: right; position:absolute; right: 30%">
+                            <i>(Example: C:\windows\..)</i>
+                        </span>                        
+                        <br />
+                        <br />
+                        <button style="float: right; position:absolute; right: 50%" id="clickParseNow" ng-click="parseNow()" class="btn btn-primary" ng-disabled="isParsing">
+                            Parse Now
+                        </button>
+                        <br />
+                        <br />
+                        <br />
+                        <div ng-if="isParsing">
+                            <label class="labelContent">Parsing in Progress... </label>
+                            <br />
+                        </div>
+                        <div ng-if="isValidationError">
+                            <label class="labelContent">Validation Error: </label>
+                            <br />
+                            <p class="alert alert-warning labelContent textRed">
+                                {{validationErrMsg}}
+                            </p>
+                        </div>
+                        <div ng-if="isParsingError">
+                            <label class="labelContent">Parsing Error: </label>
+                            <br />
+                            <p class="alert alert-warning labelContent textRed">
+                                {{parsingErrMsg}}
+                            </p>
+                        </div>
+                        <br />
+                        <div ng-if="!isValidationError && !isParsingError && isParsed">
+                            <label class="labelContent">Parsing is now complete. The actual parsed HTML is located @ <span style="color:aqua"><i> {{parsedHtmlLoc}} </i> </span></label>
+                            <br />
+                            <br />
+                            <label class="labelContent"><u>Parsed Html Preview: </u></label>
+                            <br />
+                            <p ng-bind-html="outputHtml"></p>
+                        </div>                        
+                    </div>
+                </div>              
+            </md-content>
+        </div>
+    <hr />
+    <footer id="footer">
+        <p style="text-align:center">&copy; BCIT Demo Application</p>
+    </footer>
+</body>
+</html>
